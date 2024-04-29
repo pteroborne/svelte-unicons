@@ -1994,12 +1994,6 @@ export { default as UilSnapchatGhost } from './icons/UilSnapchatGhost.svelte'
 
 export { default as UilSnapchatSquare } from './icons/UilSnapchatSquare.svelte'
 
-export { default as UilSnowFlake } from './icons/UilSnowFlake.svelte'
-
-export { default as UilSnowflake } from './icons/UilSnowFlake.svelte'
-
-export { default as UilSnowflakeAlt } from './icons/UilSnowflakeAlt.svelte'
-
 export { default as UilSocialDistancing } from './icons/UilSocialDistancing.svelte'
 
 export { default as UilSort } from './icons/UilSort.svelte'
